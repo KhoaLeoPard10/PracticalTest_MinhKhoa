@@ -1,6 +1,6 @@
 # Welcome to my first Project - Book Manager (CODE BY C#)
 
-## You will see in this project will have all my code Winform and data SQL
+## You will see in this project will have all my code Winform and data SQL about BookManager
 
 * Winform C# 
 * SQL Server
